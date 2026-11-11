@@ -1,0 +1,4 @@
+id_venta,producto,cantidad,precio,fecha
+1,Laptop,2,800,2024-11-05
+2,Mouse,10,15,2024-11-05
+3,Teclado,5,30,2024-11-06
